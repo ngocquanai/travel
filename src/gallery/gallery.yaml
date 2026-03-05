@@ -6,85 +6,265 @@ collections:
   - id: street
     name: Street
 images:
-  - path: nature/nature-2.jpg
+
+  - path: nature/img1.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
-    meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
-    meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
-    meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
-    meta:
-      title: Travel scene 6
-      description: null
-      collections:
-        - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
-    meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
-      collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
-    meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
-      collections:
-        - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
-    meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
-      collections:
-        - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
-    meta:
-      title: Nature 1
+      title: Img1
       description: ''
       collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img10.jpg
+    meta:
+      title: Img10
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img11.jpg
+    meta:
+      title: Img11
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img12.jpg
+    meta:
+      title: Img12
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img13.jpg
+    meta:
+      title: Img13
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img14.jpg
+    meta:
+      title: Img14
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img15.jpg
+    meta:
+      title: Img15
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img16.jpg
+    meta:
+      title: Img16
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img17.jpg
+    meta:
+      title: Img17
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img18.jpg
+    meta:
+      title: Img18
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img19.jpg
+    meta:
+      title: Img19
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img2.jpg
+    meta:
+      title: Img2
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img20.jpg
+    meta:
+      title: Img20
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img21.jpg
+    meta:
+      title: Img21
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img22.jpg
+    meta:
+      title: Img22
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img23.jpg
+    meta:
+      title: Img23
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img24.jpg
+    meta:
+      title: Img24
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img25.jpg
+    meta:
+      title: Img25
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img26.jpg
+    meta:
+      title: Img26
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img27.jpg
+    meta:
+      title: Img27
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img28.jpg
+    meta:
+      title: Img28
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img29.jpg
+    meta:
+      title: Img29
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img3.jpg
+    meta:
+      title: Img3
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img30.jpg
+    meta:
+      title: Img30
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img31.jpg
+    meta:
+      title: Img31
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img32.jpg
+    meta:
+      title: Img32
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img33.jpg
+    meta:
+      title: Img33
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img34.jpg
+    meta:
+      title: Img34
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img4.jpg
+    meta:
+      title: Img4
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img5.jpg
+    meta:
+      title: Img5
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img6.jpg
+    meta:
+      title: Img6
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img7.jpg
+    meta:
+      title: Img7
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img8.jpg
+    meta:
+      title: Img8
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img9.jpg
+    meta:
+      title: Img9
+      description: ''
+      collections:
+        - featured
         - nature
     exif: {}
