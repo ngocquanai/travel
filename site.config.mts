@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { Facebook, Github, Instagram } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -8,19 +8,19 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'QuanPham Travel',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
-	profileImage: 'profile.webp',
+	owner: 'Quan Pham',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
-			icon: Github,
+			name: 'Facebook',
+			url: 'https://www.facebook.com/ngocquanai',
+			icon: Facebook,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/ngoc._.quan/',
 			icon: Instagram,
 		} as SocialLink,
 	],
