@@ -11,7 +11,6 @@ images:
       title: Img1
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img2.jpg
@@ -19,7 +18,6 @@ images:
       title: Img2
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img3.jpg
@@ -160,7 +158,6 @@ images:
       title: Img22
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img23.jpg
