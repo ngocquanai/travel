@@ -155,13 +155,6 @@ images:
       collections:
         - nature
     exif: {}
-  - path: nature/img21.jpg
-    meta:
-      title: Img21
-      description: ''
-      collections:
-        - nature
-    exif: {}
   - path: nature/img22.jpg
     meta:
       title: Img22
