@@ -14,6 +14,68 @@ images:
         - featured
         - nature
     exif: {}
+  - path: nature/img2.jpg
+    meta:
+      title: Img2
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img3.jpg
+    meta:
+      title: Img3
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img4.jpg
+    meta:
+      title: Img4
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img5.jpg
+    meta:
+      title: Img5
+      description: ''
+      collections:
+        - nature
+    exif: {}
+  - path: nature/img6.jpg
+    meta:
+      title: Img6
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img7.jpg
+    meta:
+      title: Img7
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img8.jpg
+    meta:
+      title: Img8
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
+  - path: nature/img9.jpg
+    meta:
+      title: Img9
+      description: ''
+      collections:
+        - featured
+        - nature
+    exif: {}
   - path: nature/img10.jpg
     meta:
       title: Img10
@@ -48,7 +110,6 @@ images:
       title: Img14
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img15.jpg
@@ -85,14 +146,6 @@ images:
       title: Img19
       description: ''
       collections:
-        - nature
-    exif: {}
-  - path: nature/img2.jpg
-    meta:
-      title: Img2
-      description: ''
-      collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img20.jpg
@@ -171,14 +224,6 @@ images:
         - featured
         - nature
     exif: {}
-  - path: nature/img3.jpg
-    meta:
-      title: Img3
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
   - path: nature/img30.jpg
     meta:
       title: Img30
@@ -192,7 +237,6 @@ images:
       title: Img31
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img32.jpg
@@ -208,7 +252,6 @@ images:
       title: Img33
       description: ''
       collections:
-        - featured
         - nature
     exif: {}
   - path: nature/img34.jpg
@@ -216,54 +259,5 @@ images:
       title: Img34
       description: ''
       collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img4.jpg
-    meta:
-      title: Img4
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img5.jpg
-    meta:
-      title: Img5
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img6.jpg
-    meta:
-      title: Img6
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img7.jpg
-    meta:
-      title: Img7
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img8.jpg
-    meta:
-      title: Img8
-      description: ''
-      collections:
-        - featured
-        - nature
-    exif: {}
-  - path: nature/img9.jpg
-    meta:
-      title: Img9
-      description: ''
-      collections:
-        - featured
         - nature
     exif: {}
