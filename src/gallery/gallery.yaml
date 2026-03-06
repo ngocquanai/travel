@@ -240,13 +240,6 @@ images:
         - featured
         - nature
     exif: {}
-  - path: nature/img33.jpg
-    meta:
-      title: Img33
-      description: ''
-      collections:
-        - nature
-    exif: {}
   - path: nature/img34.jpg
     meta:
       title: Img34
