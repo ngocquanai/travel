@@ -6,7 +6,6 @@ collections:
   - id: me
     name: Me
 images:
-
   - path: nature/img1.jpg
     meta:
       title: Img1
