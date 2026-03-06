@@ -1,10 +1,10 @@
 collections:
   - id: nature
     name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: food
+    name: Food
+  - id: me
+    name: Me
 images:
 
   - path: nature/img1.jpg

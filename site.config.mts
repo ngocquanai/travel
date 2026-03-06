@@ -11,7 +11,6 @@ export default {
 	title: 'Ngoc Quan Pham',
 	favicon: 'favicon.ico',
 	owner: 'Quan Pham',
-	base_url: 'https://travel.ngocquan.com',
 	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
